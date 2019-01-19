@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sdyy">
+    <output-path>$PROJECT_DIR$/out/artifacts/sdyy</output-path>
+    <root id="archive" name="sdyy.war" />
+  </artifact>
+</component>
